@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient( 45deg,#7a09d6 35%, #7508be 80%); color: white; padding: 25px 50px;
+    height: 100vh;
+}
+h1{
+    color: #C7D609;
+}
+img.pastel{
+    height: 250px;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    position: fixed !important;
+    color: #7508be;
+}
+.card{
+    width: 300px;
+    background-color: #C7D609;
+}
